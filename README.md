@@ -1,2 +1,2 @@
 # nightmare.one
-Copyright © 2023 by nightmare.one
+Copyright © 2024 by nightmare.one
